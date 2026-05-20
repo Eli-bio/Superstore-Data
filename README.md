@@ -1,24 +1,27 @@
-📖 Project Overview
-This project performs end-to-end exploratory data analysis (EDA) on the Superstore dataset, uncovering key business insights such as:
+📊 Superstore End-to-End Analysis
+Project Workflow
+Data Cleaning using SQL
+Exploratory Data Analysis (EDA)
+Data Visualization using Power BI
 
-📦 Best and worst performing product categories
-🌍 Regional sales and profit distribution
-👥 Customer segment behavior
-📅 Time-series trends in orders and revenue
-💸 Impact of discounts on profitability
+Business Insights & Reporting
 
-Dataset Summary
-PropertyDetailRows9,994 ordersColumns21 featuresDate RangeJanuary 2017 – September 2017CategoriesFurniture, Office Supplies, TechnologySegmentsConsumer, Corporate, Home OfficeRegionsEast, West, Central, South
+Tools Used
+MySQL
+SQL
+Power BI
+Excel / CSV
 
-✨ Features
+Project Objectives
+Clean raw sales data
+Analyze sales and profit trends
+Identify top-performing regions and products
+Build an interactive dashboard for business insights
 
-✅ Data Quality Check — null values, blanks, and data type validation
-📊 Sales Analysis — revenue breakdown by category, sub-category, and region
-📈 Profit Analysis — identifying high-margin and loss-making products
-🗺️ Geographic Analysis — state and city-level performance maps
-👤 Customer Segmentation — behavior by Consumer, Corporate, and Home Office segments
-🔍 Discount Impact — correlation between discounts and profit margins
-
+Files Included
+data_cleaning.sql
+eda.sql
+`superstore_dashboard.p
 
 🗂️ Project Structure
 superstore-analysis/
